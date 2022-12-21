@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>istockphoto-1287157291-612x612444.jpg</filename>
+	<path>/my-project-name/istockphoto-1287157291-612x612444.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>408</width>
+		<height>612</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pig</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>117</ymin>
+			<xmax>292</xmax>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+</annotation>
