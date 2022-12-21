@@ -1,5 +1,5 @@
 # smart security system
-<h3>there is a video in the bottom</h3>
+<h3>! there is a video in the bottom</h3>
 This project is about a smart security system that helps to protect farmer animals and products from wild pigs attaque.
 so ,I trained a model to detect wild pigs , if the camera  detected a threat  the system would run a very loud sound in order to keep the animal away from the farm  .
 I use the tensorflow API.and for this project its possible to work with a camera but I choose to test on a video .
@@ -20,11 +20,7 @@ I use the tensorflow API.and for this project its possible to work with a camera
 <h2>Or just watch this video to take a quick recap</h2>
 
 <h3>with detection <h3>   
-
 https://user-images.githubusercontent.com/29411920/208974280-a3c18bb9-28b4-4979-8918-e653f1fdb90f.mp4
-
 <h3>without detection <h3>   
-
-
 https://user-images.githubusercontent.com/29411920/208938473-5f9126ea-a740-4460-9d51-0f3c6380e9b5.mp4
 
