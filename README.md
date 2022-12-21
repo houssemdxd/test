@@ -16,7 +16,7 @@ I use the tensorflow API.and for this project its possible to work with a camera
 - Open cmd <br>
 - Type python vid.py <br>
     you will see an example of a system running of video (there is more videos you can test all you will found in object detection folder )<br>
-please watch the complete video( (/test/detection.mp4) to see more example !!!!<br>
+<h2>please watch the complete video( (/test/detection.mp4) to see more example !!!!</h2><br>
 <h2>Or just watch this video to take a quick recap</h2>
 
 <h3>with detection <h3>   
